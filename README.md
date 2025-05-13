@@ -1,4 +1,6 @@
 # Racing Game
+- [Demo Video](https://youtu.be/uzWWFgvWcuQ)
+- [Play Here](https://rebeccax10ng.github.io/Games_And_Play_Racing/Build/index.html)
 # Implemented Functions:
 - Two maps with closed circuits: desert and mountain
 - Two maps with different shortcuts
